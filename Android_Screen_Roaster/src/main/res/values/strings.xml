@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Screen Roaster</string>
+    <string name="capture_screenshot">Capture Screenshot</string>
+    <string name="edit_screenshot">Edit Screenshot</string>
+    <string name="share_screenshot">Share Screenshot</string>
+    <string name="save_screenshot">Save Screenshot</string>
+    <string name="delete_screenshot">Delete Screenshot</string>
+    <string name="screenshot_saved">Screenshot saved successfully!</string>
+    <string name="screenshot_failed">Failed to capture screenshot</string>
+    <string name="permission_required">Permission required to capture screen</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="recent_screenshots">Recent Screenshots</string>
+    <string name="no_screenshots">No screenshots yet</string>
+    <string name="take_first_screenshot">Tap the camera button to take your first screenshot</string>
+</resources>
